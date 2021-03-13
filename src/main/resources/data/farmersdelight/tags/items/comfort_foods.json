@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+
+    {"id" :"berry_good:sweet_berry_meatballs",
+      "required": false},
+
+    {"id" :"forbidden_arcanus:edelwood_mushroom_stew_bucket",
+      "required": false},
+    {"id" :"forbidden_arcanus:edelwood_beetroot_soup_bucket",
+      "required": false},
+    {"id" :"forbidden_arcanus:edelwood_bat_soup_bucket",
+      "required": false},
+    {"id" :"forbidden_arcanus:bat_soup",
+      "required": false}
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "forbidden_arcanus:bat_wing"
+    }
+  ],
+  "result": {
+    "item": "forbidden_arcanus:bat_soup",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}

@@ -1,0 +1,39 @@
+modLoader="javafml" # mandatory
+loaderVersion="[34,)" # mandatory
+license="MIT License" # mandatory
+
+[[mods]]
+modId="farmersdelightintegrations" # mandatory
+    version="${file.jarVersion}" # mandatory
+    displayName="Farmer's Delight Compats" # mandatory
+    # updateJSONURL=""
+    displayURL="https://curseforge.com/minecraft/mc-mods/farmers-delight-compats"
+    logoFile="logo.png"
+    authors="justKaisa"
+    # credits=""
+    description='''
+Adds Farmer's Delight integration to many cool mods.
+
+Additional credits:
+vectorwing - Farmer's Delight
+''' # mandatory
+
+# DEPENDENCIES
+[[dependencies.farmersdelightintegrations]]
+    modId="forge"
+    mandatory=true
+    versionRange="[34,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.farmersdelightintegrations]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3,1.17)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.farmersdelightintegrations]]
+    modId="farmersdelight"
+    mandatory=true
+    versionRange="[1.16.3,)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:campfires",
+    "#minecraft:fire",
+
+    {"id" :"decorative_blocks:brazier",
+      "required": false},
+    {"id" :"decorative_blocks:soul_brazier",
+      "required": false},
+    {"id" :"decorative_blocks_abnormals:ender_brazier",
+      "required": false},
+
+    {"id" :"valhelsia_structures:brazier",
+      "required": false},
+
+    {"id" :"extlights:light_brazier_stand_iron",
+      "required": false},
+    {"id" :"extlights:light_soulbrazier_stand_iron",
+      "required": false},
+    {"id" :"extlights:light_brazier_bowl_stone",
+      "required": false},
+    {"id" :"extlights:light_brazier_bowl_granite",
+      "required": false},
+    {"id" :"extlights:light_brazier_bowl_diorite",
+      "required": false},
+    {"id" :"extlights:light_brazier_bowl_andesite",
+      "required": false},
+    {"id" :"extlights:light_soulbrazier_bowl_stone",
+      "required": false},
+    {"id" :"extlights:light_soulbrazier_bowl_blackstone",
+      "required": false}
+
+  ]
+}

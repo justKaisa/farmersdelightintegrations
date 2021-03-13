@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    {"id" :"biomesoplenty:glowshroom",
+      "required": false},
+    {"id" :"biomesoplenty:toadstool",
+      "required": false},
+
+    {"id" :"byg:purple_glowshroom",
+      "required": false},
+    {"id" :"byg:blue_glowshroom",
+      "required": false},
+    {"id" :"byg:green_mushroom",
+      "required": false},
+
+    {"id" :"quark:glowshroom",
+      "required": false},
+
+    {"id" :"betterendforge:end_mycelium",
+      "required": false},
+    {"id" :"betterendforge:small_jellyshroom",
+      "required": false}
+  ]
+}

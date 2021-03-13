@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "aquaculture:carp"
+    }],
+  "tool": {
+    "tag": "forge:fillet_knife"
+  },
+  "result": [{
+      "item": "aquaculture:fish_fillet_raw",
+      "count": 2
+  }]
+}

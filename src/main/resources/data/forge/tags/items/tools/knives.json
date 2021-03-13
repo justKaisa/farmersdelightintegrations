@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+	  {"id" :"aquaculture:wooden_fillet_knife",
+      "required": false},
+	  {"id" :"aquaculture:stone_fillet_knife",
+      "required": false},
+	  {"id" :"aquaculture:iron_fillet_knife",
+      "required": false},
+	  {"id" :"aquaculture:gold_fillet_knife",
+      "required": false},
+      {"id" :"aquaculture:diamond_fillet_knife",
+      "required": false},
+	  {"id" :"aquaculture:neptunium_fillet_knife",
+      "required": false}
+  ]
+}

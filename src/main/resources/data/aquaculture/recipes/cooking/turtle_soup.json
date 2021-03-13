@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "aquaculture:turtle"
+    }
+  ],
+  "result": {
+    "item": "aquaculture:turtle_soup",
+	"count": 1
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}
