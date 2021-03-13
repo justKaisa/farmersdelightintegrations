@@ -1,1 +1,1 @@
-# farmersdelightintegrations
+# Farmer's Delight Compats
