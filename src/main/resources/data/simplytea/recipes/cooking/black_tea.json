@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:black_tea"
+    }
+  ],
+  "result": {
+    "item": "simplytea:cup_tea_black",
+    "count": 2
+  },
+  "container": {
+    "item": "simplytea:cup"
+  },
+  "cookingtime": 200
+}

@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:milk/milk"
+    },
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:black_tea"
+    },
+    {
+      "item": "simplytea:tea_stick"
+    }
+  ],
+  "result": {
+    "item": "simplytea:cup_tea_chai",
+    "count": 2
+  },
+  "container": {
+    "item": "simplytea:cup"
+  },
+  "cookingtime": 200
+}

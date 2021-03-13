@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "simplytea:tea_leaf"
+    },
+    {
+      "item": "simplytea:tea_leaf"
+    },
+    {
+      "item": "simplytea:tea_leaf"
+    },
+    {
+      "item": "simplytea:tea_leaf"
+    }
+  ],
+  "result": {
+    "item": "simplytea:cup_tea_green",
+    "count": 2
+  },
+  "container": {
+    "item": "simplytea:cup"
+  },
+  "cookingtime": 200
+}

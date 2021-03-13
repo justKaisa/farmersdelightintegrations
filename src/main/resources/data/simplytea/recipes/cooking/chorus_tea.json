@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "simplytea:chorus_petal"
+    },
+    {
+      "item": "simplytea:chorus_petal"
+    },
+    {
+      "item": "simplytea:chorus_petal"
+    },
+    {
+      "item": "simplytea:chorus_petal"
+    }
+  ],
+  "result": {
+    "item": "simplytea:cup_tea_chorus",
+    "count": 2
+  },
+  "container": {
+    "item": "simplytea:cup"
+  },
+  "cookingtime": 200
+}
