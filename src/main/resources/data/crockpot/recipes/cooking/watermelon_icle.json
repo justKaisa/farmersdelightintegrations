@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:melon_slice"
+    },
+    [
+      {
+        "item": "minecraft:packed_ice"
+      },
+      {
+        "item": "minecraft:blue_ice"
+      },
+      {
+        "item": "minecraft:ice"
+      }
+    ]
+  ],
+  "result": {
+    "item": "crockpot:watermelon_icle",
+	"count": 1
+  },
+  "container": {
+    "item": "minecraft:stick"
+  },
+  "cookingtime": 200
+}
